@@ -1,6 +1,6 @@
 # A smooth path to plot hydrogen atom via Monte Carlo method
 
-We deal with typical problems of the particle in the boxes and 
+We deal with typical "particle in the box" problems and 
 we show how to draw the hydrogen atom orbitals, in a friendly manner to 
 undergraduates. The methodology is based on the Monte Carlo method that was 
 previously explored by M. Goto & V. De Aquino Manoel 
