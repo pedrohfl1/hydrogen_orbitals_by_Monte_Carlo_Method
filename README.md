@@ -5,8 +5,7 @@ we show how to draw the hydrogen atom orbitals, in a friendly manner to
 undergraduates. The methodology is based on the Monte Carlo method that was 
 previously explored by M. Goto & V. De Aquino Manoel 
 ([DOI:10.5433/1679-0375.1992v13n4p255](http://dx.doi.org/10.5433/1679-0375.1992v13n4p255)),
-but we focused on covering all the steps in more detail, with some added 
-automation, and from a pedagogical perspective.
+but we focused on covering all the steps in more detail, and from a pedagogical perspective.
 
 ### Authors
  - Pedro Henrique Fernandes Lobo (email pedrohflobo@gmail.com, ORCID [0000-0002-9363-9780](http://orcid.org/0000-0002-9363-9780))
